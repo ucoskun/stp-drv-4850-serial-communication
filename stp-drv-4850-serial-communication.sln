@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stp-drv-4850-serial-communication", "stp-drv-4850-serial-communication\stp-drv-4850-serial-communication.pyproj", "{8B8B1D28-D493-4B77-9E79-07BA0F63F9A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8B1D28-D493-4B77-9E79-07BA0F63F9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8B1D28-D493-4B77-9E79-07BA0F63F9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B452CFF8-21FE-4A91-83E9-DEB7FFE4358E}
+	EndGlobalSection
+EndGlobal
