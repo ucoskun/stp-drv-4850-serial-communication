@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8b8b1d28-d493-4b77-9e79-07ba0f63f9a0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>stp_drv_4850_serial_communication.py</StartupFile>
+    <StartupFile>serial_4850.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="stp_drv_4850_serial_communication.py" />
+    <Compile Include="serial_4850.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
